@@ -1,47 +1,41 @@
-= Kevin RS
+= 👁️ Wise AI 🦀
 
-== 🤖 Welcome to Kevin RS
+Wise AI, formerly Kevin RS, specializes in pushing the boundaries of artificial intelligence by moving beyond language entirely, focusing on the fundamental structure and simulation of the physical world. 
 
-Kevin RS specializes in providing open-source frameworks and tools for building highly specialized autonomous AI agents. Our current best framework, link:https://github.com/kevin-rs/autogpt[AutoGPT], stands out as the world's first LLM-Providers agnostic, fault-tolerant, multi-tenant, zero-shot, most general, most capable, blazingly fast, and extremely flexible pure Rust AI agentic framework.
+We are the creators of **lmm** (Large Mathematical Model): the world's first framework written in pure Rust that allows us to encode, predict, and simulate reality itself using mathematical equations.
 
-== 💡 Why Kevin RS?
+== The Vision
 
-At Kevin RS, we are committed to pushing the boundaries of AI development. Here's why you should choose Kevin RS tools for your next project:
+While LLMs are limited by the symbolic cage of text, Wise AI focuses on **perception, structure, and simulation**. The world is not made of words; it operates on physics, energy, matter, and mathematical structures.
 
-- 🦀 **Built in Pure Rust**: Our tools are built entirely in Rust, leveraging its performance, reliability, and safety.
-- 🚀 **AutoGPT Framework**: Experience the power of AutoGPT, a groundbreaking framework tailored for building AI agents.
-- 💻 **Kevin AGI**: Interact with Kevin, our highly capable AGI web app that can automate anything (TODO).
+Inspired by the ancient Egyptian **Eye of Horus**: a symbol representing thoughts, intellect, spiritual awareness, and the unification of fragments into cosmic balance, the `lmm` framework strives to fully represent thoughts and physical dynamics using mathematical equations. Just as the Eye of Horus perceives the whole, our LMMs balance multi-modal streams to simulate reality.
 
-== 🦀 Why Rust?
+== Why Pure Rust?
 
-Rust has emerged as a leading language for link:https://www.amazon.com/Ultimate-Rust-Systems-Programming-Architecting-ebook/dp/B0CYLWK6WR[systems programming], and for good reason. Here's why Rust is the perfect choice for building AGI, especially with Kevin RS tools:
+Rust is the definitive choice for building the next generation of simulation engines and AI tools:
 
-- 🛠️ **Tooling like Cargo**: Rust's ecosystem boasts powerful tooling like Cargo, making development smooth and efficient.
-- 📦 **Cargo Features**: With Cargo features, we can enable and disable agents at compile time, offering exceptional flexibility in AGI development.
-- 🧰 **Memory Safety**: Rust helps us avoid bugs in our programs, making them more reliable.
-- 🚀 **Performance**: Rust programs are blazingly fast, allowing our tools to run smoothly and efficiently.
+- **Performance**: Physics simulation and mathematical modeling demand blazingly fast execution.
+- **Memory Safety**: Rust's ownership model avoids entire classes of bugs, making systems radically more reliable.
+- **Zero-Cost Abstractions**: Allowing us to encode complex mathematical constraints seamlessly.
 
-== 🌐 Community & Contribution
+== Core Project: LMM
 
-Kevin RS is not just a framework provider; it's a vibrant community of AI enthusiasts and developers. Join us to contribute and shape the future of AI development:
+The `lmm` framework is a category shift in intelligence architecture:
 
-- 🌟 **Contribute to Kevin RS**: Get involved in our GitHub community at link:https://github.com/kevin-rs/autogpt[GitHub].
-- 📧 **Questions or Suggestions?**: Reach out to us at ayo@kevin-rs.dev.
-- 🌐 **Spread the AI Revolution**: Share Kevin RS with others and join us in advancing AI technology.
+- **Mathematical Intelligence**: Focuses on equation discovery and symbolic regression, learning compact mathematical rules directly from multi-modal data.
+- **Simulation is Core**: Moves beyond describing the world to computing and simulating its future directly.
+- **Multimodal By Default**: Processes text, images, video, and numerical structures synchronously to model deep physical reality.
 
-== 🚀 What's Next for Kevin RS?
+== Community & Contribution
 
-Our roadmap for future innovations in AI is as exciting as it gets:
+Wise AI is a vibrant community of thinkers, scientists, and engineers dedicated to moving AI out of the cage of language:
 
-- 🚀 **AGI Development**: Pursue advancements towards achieving Artificial General Intelligence by this summer.
-- 🛠️ **Enhancements to AutoGPT**: Continuously improve and expand AutoGPT's capabilities.
-- 🤖 **New AI Tools**: Develop additional tools and frameworks to empower AI developers.
-- 🌐 **Community Projects**: Foster collaborative projects within the Kevin RS community.
+- **Contribute**: Get involved in our repositories at link:https://github.com/wiseaidotdev[GitHub].
+- **Questions or Suggestions?**: Reach out to us at oss@wiseai.dev.
+- **Read the Theory**: Explore our essays and blog posts on why large mathematical models will break reality.
 
-We are planning to achieve AGI this summer.
+== License
 
-== 📄 License
+Wise AI is proudly open-source and released under the MIT License.
 
-Kevin RS is proudly open-source and released under the MIT License.
-
-Let's shape the future of AI together with Kevin RS! 🤖
+Let's bend reality together 👁️!
