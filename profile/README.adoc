@@ -2,7 +2,7 @@
 
 Wise AI, formerly Kevin RS, specializes in pushing the boundaries of artificial intelligence by moving beyond language entirely, focusing on the fundamental structure and simulation of the physical world. 
 
-We are the creators of **lmm** (Large Mathematical Model): the world's first framework written in pure Rust that allows us to encode, predict, and simulate reality itself using mathematical equations.
+We are the creators of link:https://github.com/wiseaidotdev/lmm[**lmm**] (Large Mathematical Model): the world's first framework written in pure Rust that allows us to encode, predict, and simulate reality itself using mathematical equations.
 
 == The Vision
 
@@ -25,6 +25,10 @@ The `lmm` framework is a category shift in intelligence architecture:
 - **Mathematical Intelligence**: Focuses on equation discovery and symbolic regression, learning compact mathematical rules directly from multi-modal data.
 - **Simulation is Core**: Moves beyond describing the world to computing and simulating its future directly.
 - **Multimodal By Default**: Processes text, images, video, and numerical structures synchronously to model deep physical reality.
+
+== AutoGPT
+
+We are the original creators of the link:https://github.com/wiseaidotdev/autogpt[autogpt] Rust framework. While our primary focus is now on building intelligence without LLMs through our `lmm` project, we continue to actively maintain the AutoGPT framework for the open-source community.
 
 == Community & Contribution
 
