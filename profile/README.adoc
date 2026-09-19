@@ -38,8 +38,18 @@ Wise AI is a vibrant community of thinkers, scientists, and engineers dedicated 
 - **Questions or Suggestions?**: Reach out to us at oss@wiseai.dev.
 - **Read the Theory**: Explore our essays and blog posts on why large mathematical models will break reality.
 
+== Support
+
+We really appreciate your willingness to support us ❤️! Unfortunately, there's currently no viable way to support us through GitHub Sponsors, Ko-fi, or similar platforms, as many of these services aren't available here in Lebanon.
+
+So, why do we keep pushing forward? Because we're inspired by Linus Torvalds and his competitive spirit when it comes to open source.
+
 == License
 
 Wise AI is proudly open-source and released under the MIT License.
 
 Let's bend reality together 👁️!
+
+**Note:** Papa Linus has not actually contributed to any of our repositories. We just keep adding him because we're inspired by his work.
+
+**Long live Papa Linus 🫡!**
